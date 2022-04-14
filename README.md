@@ -19,6 +19,16 @@ Feel free to reach me on Linkedin: https://www.linkedin.com/in/serg%C3%A8s-g-138
 ## 🗂️ My lastest projects
 
 <p align="left">
+<a href="https://github.com/sergesgoma/tropefinder" title="TropeFinder 💖"><img src="https://github.com/sergesgoma/tropefinder/raw/main/rendu/homepage.png" alt="TropeFinder 💖" width="250px" align="left" /></a>
+<a href="https://github.com/sergesgoma/tropefinder" title="TropeFinder 💖"><strong>TropeFinder 💖</strong></a>
+<br/> 
+
+Stack: HTML/CSS, JavaScript, Node.js, Express.js, MongoDB, and Mongoose.
+
+CRUD API search engine project for romance novel tropes.
+</p> <br/> <br/>
+
+<p align="left">
 <a href="https://github.com/sergesgoma/my-notes-app" title="My Notes App 📝"><img src="https://github.com/sergesgoma/my-notes-app/raw/main/rendu/notes-app-index.png" alt="My Notes App 📝" width="250px" align="left" /></a>
 <a href="https://github.com/sergesgoma/my-notes-app" title="My Notes App 📝"><strong>My Notes App 📝</strong></a>
 <br/> 
