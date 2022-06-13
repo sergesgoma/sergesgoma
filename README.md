@@ -23,7 +23,7 @@ Feel free to reach me on Linkedin: https://www.linkedin.com/in/serg%C3%A8s-g-138
 <a href="https://github.com/sergesgoma/new-tropefinder" title="TropeFinder 📚"><strong>TropeFinder 📚</strong></a>
 <br/> 
 
-Stack: HTML/CSS, JavaScript, Node.js, Express.js, MongoDB, and Mongoose.
+Stack: HTML/CSS, JavaScript, Node.js, Express.js, PostgreSQL, and Prisma.
 
  Webiste to search novels based on tropes.
 </p> <br/> <br/>
