@@ -19,8 +19,8 @@ Feel free to reach me on Linkedin: https://www.linkedin.com/in/serg%C3%A8s-g-138
 ## 🗂️ My lastest projects
 
 <p align="left">
-<a href="https://github.com/sergesgoma/tropefinder" title="TropeFinder 📚"><img src="https://www.zupimages.net/up/22/22/sp0x.png" alt="TropeFinder" width="250px" align="left" /></a>
-<a href="https://github.com/sergesgoma/tropefinder" title="TropeFinder 📚"><strong>TropeFinder 📚</strong></a>
+<a href="https://github.com/sergesgoma/new-tropefinder" title="TropeFinder 📚"><img src="https://www.zupimages.net/up/22/22/sp0x.png" alt="TropeFinder" width="250px" align="left" /></a>
+<a href="https://github.com/sergesgoma/new-tropefinder" title="TropeFinder 📚"><strong>TropeFinder 📚</strong></a>
 <br/> 
 
 Stack: HTML/CSS, JavaScript, Node.js, Express.js, MongoDB, and Mongoose.
