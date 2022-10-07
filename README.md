@@ -14,7 +14,7 @@ Hi, I'm Sergès 👋
 
 ## ☎️ How to reach me?
 
-Feel free to reach me on Linkedin: https://www.linkedin.com/in/serg%C3%A8s-g-138214140/
+Feel free to reach me on Linkedin: https://www.linkedin.com/in/devserges/
 
 ## 🗂️ My lastest projects
 
