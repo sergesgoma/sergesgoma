@@ -15,6 +15,7 @@ Hi, I'm Sergès 👋
 ## ☎️ How to reach me?
 
 Feel free to reach me on Linkedin: https://www.linkedin.com/in/devserges/
+Or contact me through my email address: dev.serges@gmail.com
 
 ## 🗂️ My lastest projects
 
