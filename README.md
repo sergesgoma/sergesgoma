@@ -24,7 +24,7 @@ Or contact me through my email address: dev.serges@gmail.com
 <a href="https://github.com/sergesgoma/new-tropefinder" title="TropeFinder 📚"><strong>TropeFinder 📚</strong></a>
 <br/> 
 
-Stack: HTML/CSS, JavaScript, Node.js, Express.js, PostgreSQL, and Prisma.
+Stack: HTML/CSS, TypeScript, ReactJS, Node.js, Express.js, PostgreSQL, and Prisma.
 
  Webiste to search novels based on tropes.
 </p> <br/> <br/>
