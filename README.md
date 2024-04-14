@@ -14,7 +14,6 @@ Hi, I'm Sergès 👋
 ## ☎️ How to reach me?
 
 Feel free to reach me on Linkedin: https://www.linkedin.com/in/devserges/
-Or contact me through my email address: dev.serges@gmail.com
 
 ## 🗂️ My lastest projects
 
@@ -26,15 +25,5 @@ Or contact me through my email address: dev.serges@gmail.com
 Stack: HTML/CSS, TypeScript, ReactJS, Node.js, Express.js, PostgreSQL, and Prisma.
 
  Webiste to search novels based on tropes.
-</p> <br/> <br/>
-
-<p align="left">
-<a href="https://github.com/sergesgoma/my-notes-app" title="My Notes App 📝"><img src="https://github.com/sergesgoma/my-notes-app/raw/main/rendu/notes-app-index.png" alt="My Notes App 📝" width="250px" align="left" /></a>
-<a href="https://github.com/sergesgoma/my-notes-app" title="My Notes App 📝"><strong>My Notes App 📝</strong></a>
-<br/> 
-
-Stack: HTML/CSS, JavaScript, Node.js, Express.js, MongoDB, and Mongoose.
-
-CRUD API notetaking project with a filter for the different note categories.
 </p> <br/> <br/>
 
