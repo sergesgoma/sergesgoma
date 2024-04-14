@@ -8,7 +8,6 @@ Hi, I'm Sergès 👋
 
 - 💻 I'm a JavaScript Fullstack Developer
 - 📍I'm from France
-- 🌱 I'm currently learning React.js 
 - 📚 I love reading and writing novels
 - 🥋 I like martial arts, especially karate (I've been practicing it for 10 years)
 
